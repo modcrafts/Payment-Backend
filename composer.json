@@ -1,0 +1,6 @@
+{
+    "require": {
+        "w7corp/easywechat": "^6.7",
+        "alipaysdk/easysdk": "^2.0"
+    }
+}
